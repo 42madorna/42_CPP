@@ -4,3 +4,24 @@
 [submodule "CPP06"]
 	path = CPP06
 	url = git@bitbucket.org:madorna-42/cpp06.git
+[submodule "CPP01"]
+	path = CPP01
+	url = git@bitbucket.org:madorna-42/cpp01.git
+[submodule "CPP02"]
+	path = CPP02
+	url = git@bitbucket.org:madorna-42/cpp02.git
+[submodule "CPP03"]
+	path = CPP03
+	url = git@bitbucket.org:madorna-42/cpp03.git
+[submodule "CPP04"]
+	path = CPP04
+	url = git@bitbucket.org:madorna-42/cpp04.git
+[submodule "CPP05"]
+	path = CPP05
+	url = git@bitbucket.org:madorna-42/cpp05.git
+[submodule "CPP07"]
+	path = CPP07
+	url = git@bitbucket.org:madorna-42/cpp07.git
+[submodule "CPP08"]
+	path = CPP08
+	url = git@bitbucket.org:madorna-42/cpp08.git
