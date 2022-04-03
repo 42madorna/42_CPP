@@ -1,6 +1,6 @@
 [submodule "CPP00/0"]
 	path = CPP00/0
-	url = https://AdornaApps@bitbucket.org/madorna-42/cpp00.git
+	url = git@bitbucket.org:madorna-42/cpp00.git
 [submodule "CPP01"]
 	path = CPP01
 	url = git@bitbucket.org:madorna-42/cpp01.git
